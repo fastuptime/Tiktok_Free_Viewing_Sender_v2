@@ -19,7 +19,8 @@ Tiktok free viewing sender v2  / Tiktok ücretsiz görüntüleme gönderme scrip
 
 ![image](https://github.com/fastuptime/Tiktok_Free_Viewing_Sender/assets/63351166/954b4864-87c5-4531-8420-a0965ccc2001)
 
-![image](https://github.com/fastuptime/Tiktok_Free_Viewing_Sender/assets/63351166/8bf90416-a6a5-4205-bbef-c47464fafb60)
+![image](https://github.com/fastuptime/Tiktok_Free_Viewing_Sender_v2/assets/63351166/0a9225a0-0c4e-48a6-bce0-ae643d997071)
+
 
 
 # 🛠️ Installation 🛠️
